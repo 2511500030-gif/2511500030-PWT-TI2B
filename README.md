@@ -14,4 +14,5 @@ Hari ini, Selasa 17.Mar.2026, saya belajar:<br>
 <li>Modifikasi baris 166</li>
 <li>Modifikasi baris 172 dan menghapus baris 175-176</li>
 <li>Untuk memasang menu, ubah baris 107,115,121</li>
+<li>Copy baris 103-125 dan tempel di bawah baris 126 untuk diubah jadi menu logout</li>
 
