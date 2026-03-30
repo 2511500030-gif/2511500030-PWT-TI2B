@@ -11,4 +11,5 @@ Hari ini, Selasa 17.Mar.2026, saya belajar:<br>
 <li>Save as file starter html jadi index.php</li>
 <li>Copy folder plugins dan dist dan paste ke folder pwt_ti2b</li>
 <li>Menghapus baris 61-155 serta 181-217 sesuai di materi</li>
+<li>Modifikasi baris 166</li>
 
