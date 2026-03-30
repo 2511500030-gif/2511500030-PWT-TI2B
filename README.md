@@ -8,3 +8,5 @@ Hari ini, Selasa 17.Mar.2026, saya belajar:<br>
 <li>Membuat database dengan nama jadwal di phpmyadmin</li>
 <li>Membuat tabel di dalam database sesuai intruksi di materi 2 bagian 1</li>
 <li>Membuat folder baru di file dengan nama pwt_ti2b</li>
+<li>Save as file starter html jadi index.php</li>
+
