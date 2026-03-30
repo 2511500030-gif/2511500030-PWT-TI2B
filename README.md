@@ -6,3 +6,4 @@ Nama : Monika Aldesia Plaron<br>
 Hari ini, Selasa 17.Mar.2026, saya belajar:<br>
 <ol>
 <li>Membuat database dengan nama jadwal di phpmyadmin</li>
+<li>Membuat tabel di dalam database sesuai intruksi di materi 2 bagian 1</li>
