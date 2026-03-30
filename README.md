@@ -12,4 +12,5 @@ Hari ini, Selasa 17.Mar.2026, saya belajar:<br>
 <li>Copy folder plugins dan dist dan paste ke folder pwt_ti2b</li>
 <li>Menghapus baris 61-155 serta 181-217 sesuai di materi</li>
 <li>Modifikasi baris 166</li>
+<li>Modifikasi baris 172 dan menghapus baris 175-176</li>
 
